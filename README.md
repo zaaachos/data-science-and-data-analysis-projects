@@ -9,6 +9,11 @@
 * NumPy
 * Matplotlib
 * sklearn
+* scipy
+* statsmodels
 
 ## Environment
 * Conda
+
+## License
+[MIT](https://github.com/zaaachos/data-science-and-data-analysis-projects/blob/main/LICENSE)
