@@ -1,0 +1,1 @@
+## Explore the Baylor Religion Survey dataset. Applying statistical measures and machine learning approaches to examine the overall belief in supernatural evil in USA. Methods applied in order to carry out predictions were Logistic Regression, Linear Regression, Decision Trees / Random Forests, Bagging, AdaBoost.
